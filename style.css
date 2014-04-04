@@ -1,0 +1,13 @@
+.image{
+	width: 300px;
+	height: 300px;
+} 
+
+body {
+	background:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjiAE1xOVUkg4idSca-9CHcK78qopAaNuRGNHZQcLbiZlYSWBa");
+	color: #FF0040;
+}
+#main {
+	background: #FFFFFF;
+	padding:8px;
+}
